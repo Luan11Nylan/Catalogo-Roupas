@@ -1,0 +1,57 @@
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.exe
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.deps.json
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.runtimeconfig.json
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.dll
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\ref\Projet-usuario1.dll
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.pdb
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet_usuario1.Form1.resources
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet_usuario1.Properties.Resources.resources
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.AssemblyInfo.cs
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.dll
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\ref\Projet-usuario1.dll
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.pdb
+C:\Users\PC\source\repos\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.genruntimeconfig.cache
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.exe
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.deps.json
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.runtimeconfig.json
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.runtimeconfig.dev.json
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.dll
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\ref\Projet-usuario1.dll
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.pdb
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet_usuario1.Form1.resources
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet_usuario1.Properties.Resources.resources
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.AssemblyInfo.cs
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.dll
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\ref\Projet-usuario1.dll
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.pdb
+C:\Users\PC\Documents\Codigos C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.genruntimeconfig.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.exe
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.deps.json
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.runtimeconfig.json
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.runtimeconfig.dev.json
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.dll
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\bin\Debug\net5.0-windows\Projet-usuario1.pdb
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.csproj.AssemblyReference.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet_usuario1.Form1.resources
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet_usuario1.Properties.Resources.resources
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.csproj.GenerateResource.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.AssemblyInfoInputs.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.AssemblyInfo.cs
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.csproj.CoreCompileInputs.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.dll
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\refint\Projet-usuario1.dll
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.pdb
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\Projet-usuario1.genruntimeconfig.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Projet-usuario1\Projet-usuario1\obj\Debug\net5.0-windows\ref\Projet-usuario1.dll
